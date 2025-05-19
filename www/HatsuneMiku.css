@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(187, 169, 157);
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  color: #5c240D;
+  margin-left: 20px;
+}
+h2 {
+  font-size: 30px;
+}
+button { }
